@@ -13,5 +13,5 @@ Plots a minimalist time series line chart at each coordinate
 provided
 }
 \details{
-.. content for \details{} ..
+.. content for %\details{} ..
 }
